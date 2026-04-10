@@ -1,6 +1,6 @@
 cask "clawbar" do
   version "1.0.0"
-  sha256 "9c4ba8a2c76fcad1d3b6e1f4fd0c7e897c14572c486931e936d99ab600ebfd0b"
+  sha256 "e3fcb3d3a6e45f98b5a89954fbd270a94a97434e433f11728f2034a0d75fa6bf"
 
   url "https://github.com/blacki2016/Clawbar/releases/download/v#{version}/Clawbar-macOS.zip",
       verified: "github.com/blacki2016/Clawbar/"
